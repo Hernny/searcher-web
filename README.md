@@ -1,4 +1,4 @@
-# autopub
+# Searcher
 
 ## Project setup
 ```
